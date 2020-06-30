@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-=======
+//<<<<<<< HEAD
+//=======
 public class Bakery {
     private String productName;
     private double price;
@@ -46,5 +46,7 @@ public class Bakery {
     public int getQuantityInStock(){
         return this.quantityInStock;
     }
+
+    //make a method that prints the whole itemOne
 }
->>>>>>> 56228d043ed59cc84c4561b5449fdc6f4102e57d
+//>>>>>>> 56228d043ed59cc84c4561b5449fdc6f4102e57d
