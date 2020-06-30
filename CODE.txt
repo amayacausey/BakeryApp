@@ -13,13 +13,6 @@ public class BakeryDatabase{
             this.bakeryDatabase.add(productName);
         }
 
-        public String printDatabase(){
-            String wholeBakery ="";
-
-            return wholeBakery;
-
-    }
-
 
 
 
