@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-=======
+//<<<<<<< HEAD
+//=======
 public class Bakery {
     private String productName;
     private double price;
@@ -47,4 +47,4 @@ public class Bakery {
         return this.quantityInStock;
     }
 }
->>>>>>> 56228d043ed59cc84c4561b5449fdc6f4102e57d
+//>>>>>>> 56228d043ed59cc84c4561b5449fdc6f4102e57d
