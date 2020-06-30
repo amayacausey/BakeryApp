@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.ArrayList;
 
 public class BakeryDatabase{
@@ -39,4 +40,9 @@ public class BakeryDatabase{
 
 
 
+=======
+public class BakeryDatabase {
+
+}
+>>>>>>> 56228d043ed59cc84c4561b5449fdc6f4102e57d
 
